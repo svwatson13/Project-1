@@ -11,3 +11,7 @@
 ### Cookbook
 - Create recipe which provisions the environment sufficient to run the application
 - Use this provisioned environment as a slave node on jenkins
+
+### Finished product
+- CI pipeline from dev
+- AMI of production environment
